@@ -1,0 +1,2 @@
+adminUsers:
+  $description: 管理员用户(目前仅支持一个)
